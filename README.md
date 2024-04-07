@@ -13,17 +13,12 @@
 ###
 
 <h2 align="left">About me</h2>
-
 ###
-
 <br clear="both">
 
 <p align="left">✨ I’m currently working on a video streaming platform.<br>👯 I'm looking to collaborate on projects that expand my knowledge while delivering the best value.<br>💬 Ask me about Coding, gaming, dancing.<br>🎯 Goals: (Be a better person | learn something) every single day<br>🎲 Fun fact: I love cooking, even though my culinary skills are somewhere between 'burnt toast' and 'microwave masterchef'<br>📫 How to reach me: Jessepenadev@gmail.com</p>
-
 ###
-
 <br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jesse-pena-dev/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"  /></a>
   <a href="https://www.instagram.com/_jessepena_/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"  /></a>
