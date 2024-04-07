@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on a video streaming platform.<br>👯 I'm looking to collaborate on projects that expand my knowledge while delivering the best value.<br>💬 Ask me about Coding, gaming, dancing.<br>🎯 Goals: (Be a better person | learn something) every single day<br>🎲 Fun fact: I love cooking, even though my culinary skills are somewhere between 'burnt toast' and 'microwave masterchef'<br>📫 How to reach me: Jessepenadev@gmail.com</p>
+<p align="left">✨ I’m currently working on a video streaming platform.<br>👯 I'm looking to collaborate on projects that expand my knowledge while delivering the best value.<br>💬 Ask me about coding, gaming, dancing.<br>🎯 Goals: (Be a better person | learn something) every single day<br>🎲 Fun fact: I love cooking, even though my culinary skills are somewhere between 'burnt toast' and 'microwave masterchef'.<br>📫 How to reach me: Jessepenadev@gmail.com.</p>
 
 ###
 
